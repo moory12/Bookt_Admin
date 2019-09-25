@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bookt_Admin1.0</string>
+    <string name="restaurant">Restaurant:</string>
+    <string name="cuisine">Cuisine:</string>
+    <string name="city">City:</string>
+    <string name="contact_info">Contact Info</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="phone">Phone:</string>
+    <string name="fcm_token">FCM Token: %s</string>
+    <string name="confirm">Confirm</string>
+</resources>
